@@ -5,6 +5,7 @@
 ---
 
 ## 스크린샷
+<img width="1677" height="852" alt="image" src="https://github.com/user-attachments/assets/8421ee8c-0ac4-4a3e-a1f4-02854196ad6d" />
 
 > 검색 → 지도 핀 → 메트릭 카드 → 히스토리 차트
 
